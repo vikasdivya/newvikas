@@ -1,0 +1,5 @@
+docker
+jenkins
+microdegree
+kuberne
+hi gitt
